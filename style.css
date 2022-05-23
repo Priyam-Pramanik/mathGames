@@ -1,0 +1,16 @@
+body{
+text-align: center;	
+}
+#no1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: goldenrod;   
+
+}
+#output{
+    background: rgb(229, 46, 46);
+    border-radius: 10px;
+    border-top: 10 px solid;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
